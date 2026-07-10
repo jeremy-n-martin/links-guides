@@ -14,16 +14,12 @@
 | Fable 5 |https://x.com/cyrilXBT/status/2072706408710058492|
 |Hermes setup |https://x.com/0xclayn/status/2070226809233244168|
 |Hermes masterclass|https://x.com/akshay_pachaar/status/2054564519280804028|
-
 |Claude Code + NotebookLM + Obsidian |https://x.com/SpikeCalls/status/2069815843186176126|
-
 |Claude Code + NotebookLM + Obsidian | https://x.com/kocer_eth/status/2070188026794283036 |
 |Loop engineering|https://x.com/akshay_pachaar/status/2069769689560187027|
 |Loop engineering|https://x.com/Raytar/status/2069212188619805179|
 |Agentic engineering|https://x.com/akshay_pachaar/status/2070860837448040832|
-
 |Claude Cowork|https://x.com/sairahul1/status/2070795168677265758|
-
 |Memory agents| https://x.com/Sprytixl/status/2070065255804277066 |
 |--|--|
 |--|--|
