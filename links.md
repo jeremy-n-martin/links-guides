@@ -90,8 +90,7 @@
 ## Papers
 
 |Descr|Link|
-|The Red Queen Gödel Machine: Co-Evolving Agents
-and Their Evaluators|https://arxiv.org/pdf/2606.26294|
+|The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators|https://arxiv.org/pdf/2606.26294|
 |--|--|
 |--|--|
 |--|--|
